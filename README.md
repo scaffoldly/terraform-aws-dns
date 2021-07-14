@@ -44,7 +44,7 @@ module "dns" {
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_dns"></a> [dns](#module\_dns) | scaffoldly/stage-dns/aws | 0.15.3 |
+| <a name="module_dns"></a> [dns](#module\_dns) | scaffoldly/stage-dns/aws | 0.15.4 |
 
 ## Resources
 
