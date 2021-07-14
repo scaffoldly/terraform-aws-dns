@@ -4,7 +4,7 @@ module "dns" {
   for_each = var.stages
 
   source  = "scaffoldly/stage-dns/aws"
-  version = "0.15.3"
+  version = "0.15.4"
 
   dns_provider      = var.dns_provider
   stage             = each.key
